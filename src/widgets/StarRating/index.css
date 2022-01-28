@@ -1,0 +1,11 @@
+input[type='radio'] {
+  display: none;
+}
+
+.starRating {
+  display: flex;
+}
+
+.star:hover {
+  cursor: pointer;
+}
